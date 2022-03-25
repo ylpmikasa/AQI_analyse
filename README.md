@@ -1,0 +1,2 @@
+# AQI_analyse
+利用pandas读取Excel数据，然后利用Pycharts进行可视化展示，分析不同站点不同时间的aqi历史数据，并进行差值运算，分析差值的趋势
